@@ -1,4 +1,4 @@
-# BwithU :Baseball:
+# BwithU :baseball:
 BwithU is a website that gives information about baseball.
 
 # Features
