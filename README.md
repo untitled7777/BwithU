@@ -1,2 +1,15 @@
-# BwithU
-BwithU helps you to get information about baseball more easily and quickly. When you watch baseball, BwithU will always Be with U.
+# BwithU :Baseball:
+BwithU is a website that gives information about baseball.
+
+# Features
+- Rule of Baseball
+- History of Baseball
+- About KBO League
+- About MLB League
+    - National League
+    - American League
+  
+# License
+```APACHE LICENSE, VERSION 2.0```
+
+
