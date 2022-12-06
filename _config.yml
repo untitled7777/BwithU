@@ -1,0 +1,27 @@
+title:              BwithU
+email:              
+description:        Information about BwithU
+author:             BwithU
+baseurl:            ""
+url:                "https://untitled7777.github.io/BwithU/"
+
+# Social Profiles
+twitter_username:   
+github_username:    BwithU
+facebook_username:  
+instagram_username:  
+linkedin_username:
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+
+remote_theme : StartBootstrap/startbootstrap-clean-blog-jekyll
