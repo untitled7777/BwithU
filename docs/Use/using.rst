@@ -4,24 +4,24 @@ How to use
 Homepage
 ==================
 
-.. image:: imgs/start.png
+.. image:: start.png
 
 
 Features page
 ==================
 
-.. image:: imgs/feature.jpg
+.. image:: feature.jpg
 
 History page
 ===================
 
-.. image:: imgs/history.jpg
+.. image:: history.jpg
 
 
 
 Rule page
 ===================
 
-.. image:: imgs/rule.jpg
+.. image:: rule.jpg
 
 
