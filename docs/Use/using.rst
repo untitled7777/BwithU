@@ -21,6 +21,6 @@ History page
 Rule page
 ===================
 
-.. image:: rule2.JPG
+.. image:: rule2.JPB
 
 
