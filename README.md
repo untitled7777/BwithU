@@ -12,8 +12,10 @@
 - About MLB League
     - National League
     - American League
-    - 
+
 ![image](feature.JPG)
+![image](history.JPG)
+![image](rule2.JPG)
 
 # License
 ```APACHE LICENSE, VERSION 2.0```
