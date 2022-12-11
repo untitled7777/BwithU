@@ -1,8 +1,9 @@
 # BwithU :baseball:
-BwithU is a website that gives information about baseball.
+
+### BwithU is a website that gives information about baseball.
 
 ![image](start.PNG)
-![image](feature.JPG)
+
 
 # Features
 - Rule of Baseball
@@ -11,7 +12,9 @@ BwithU is a website that gives information about baseball.
 - About MLB League
     - National League
     - American League
-  
+    - 
+![image](feature.JPG)
+
 # License
 ```APACHE LICENSE, VERSION 2.0```
 
