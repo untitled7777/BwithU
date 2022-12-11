@@ -4,24 +4,23 @@ How to use
 Homepage
 ==================
 
-.. image:: start.png
-
+.. image:: C:\Users\dbs36\Desktop\project\start.PNG
 
 Features page
 ==================
 
-.. image:: feature.jpg
+.. image:: C:\Users\dbs36\Desktop\project\feature.JPG
 
 History page
 ===================
 
-.. image:: history.jpg
+.. image:: C:\Users\dbs36\Desktop\project\history.JPG
 
 
 
 Rule page
 ===================
 
-.. image:: rule.jpg
+.. image:: C:\Users\dbs36\Desktop\project\rule.JPG
 
 
