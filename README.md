@@ -1,8 +1,8 @@
 # BwithU :baseball:
 BwithU is a website that gives information about baseball.
 
-![image](C:\Users\dbs36\Desktop\project\start.PNG)
-![image](C:\Users\dbs36\Desktop\project\feature.JPG)
+![image](start.PNG)
+![image](feature.JPG)
 
 # Features
 - Rule of Baseball
